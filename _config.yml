@@ -16,14 +16,14 @@ timezone: America/Chicago
 
 title: Ziming Zhou # the main title
 
-tagline: UMich CS 2025 # it will display as the sub-title
+tagline: UMich CS / SJTU ECE Undergrad 2025 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://ziming-zh.github.io"
 
 github:
   username: ziming-zh # change to your github username
@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Ziming Zhou
-  email: zimingzh@umich.com # change to your email address
+  email: zimingzh@umich.edu # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/avatar.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
