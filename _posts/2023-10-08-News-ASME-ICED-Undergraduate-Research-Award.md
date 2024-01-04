@@ -17,7 +17,7 @@ Recently, Ziming Zhou (author), a junior JI undergraduate ECE student, has been 
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="ICEF-pic1.png">
+    src="ICEF-pic1.png" alt="Image failed to load">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
@@ -36,7 +36,7 @@ Ziming Zhou, under the guidance of Prof. David Hung and Postdoctoral Researcher 
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="ICEF-pic2.png">
+    src="ICEF-pic2.png"alt="Image failed to load">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
