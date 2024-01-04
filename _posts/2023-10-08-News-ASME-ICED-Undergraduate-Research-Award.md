@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Award:I received ASME ICED Undergraduate Research Award at 2023 ICE Forward Conference
-categories: [ML, Flow]
+categories: [Research]
 tags: [Award, Research]
 date: '2023-11-03 16:42:38 -0600'
 img_path: /assets/img/post/

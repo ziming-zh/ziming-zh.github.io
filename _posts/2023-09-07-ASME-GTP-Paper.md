@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Paper:Cyclic Analysis of In-Cylinder Vortex Interactions Based on Data-Driven Detection and Characterization Framework
-categories: [Flow]
+categories: [Research]
 tags: [Accepted Papers, Research]
 date: '2023-09-07 16:42:38 -0600'
 img_path: /assets/img/post/

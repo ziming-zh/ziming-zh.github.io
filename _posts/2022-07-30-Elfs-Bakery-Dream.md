@@ -140,3 +140,13 @@ In summary, "Elf's Bakery" offers players an engaging experience as they assist 
     color: #999;
     padding: 2px;">  Level 7: Custeau Chef </div>
 </center>
+
+### Contributors
+
+UM-SJTU JI SU22 ENGR1000J-3 p2team-17
+
+- Ziming Zhou 521370910142
+
+- Chongye Yang 521370910088
+
+- Qijia Liu 521370910165
