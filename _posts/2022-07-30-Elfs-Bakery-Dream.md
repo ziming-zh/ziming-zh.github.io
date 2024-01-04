@@ -10,7 +10,7 @@ img_path: /assets/img/post/
 > The source code of the game together with other presenting materials could be found at the GitHub repo [Elfs-Bakery](https://github.com/ziming-zh/Elfs-Bakery/)
 {: .prompt-info }
 
-> Click [here](https://focs.ji.sjtu.edu.cn/silverfocs/demo/2022/p2team17/) to play our game.
+> Click [here](https://focs.ji.sjtu.edu.cn/silverfocs/demo/2022/p2team17/) to play our game. Since arrow keys are required for character manipulation, please play our games on computers for better game experience.
 {: .prompt-tip }
 
 ## Introduction 
