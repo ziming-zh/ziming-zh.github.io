@@ -19,6 +19,6 @@ My primary research focus involves the following:
 
 
 
-> You can find my  [CV]() and [previous work]() at this website. 
+> You can find my  [CV](https://ziming-zh.github.io/) and [previous work](https://ziming-zh.github.io/) at this website. 
 {: .prompt-tip }
 
