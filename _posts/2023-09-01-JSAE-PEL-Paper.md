@@ -20,6 +20,7 @@ Conference: 2023 JSAE/SAE Powertrains, Energy and Lubricants International Meeti
 
 At: Kyoto, Japan
 
+Authors: <u>Ziming Zhou</u>, Fengnian Zhao*, David L.S. Hung, Xuesong Li, Min Xu
 
 ## Main Content 
 
