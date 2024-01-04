@@ -37,7 +37,7 @@ The introduction section of the document discusses the increasing attention give
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="JSAE-2.png"alt="Image failed to load">
+    src="JSAE-2.png" alt="Image failed to load">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
@@ -51,7 +51,7 @@ The after-injection residual effect is a significant aspect addressed in the int
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="JSAE-3.png"alt="Image failed to load">
+    src="JSAE-3.png" alt="Image failed to load">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
@@ -67,7 +67,7 @@ This section describes the hardware and instrumentation used in the experiment, 
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="JSAE-4.png"alt="Image failed to load">
+    src="JSAE-4.png" alt="Image failed to load">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
@@ -82,7 +82,7 @@ The methodology section introduces a hybrid analysis approach to investigate the
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="JSAE-5.png"alt="Image failed to load">
+    src="JSAE-5.png" alt="Image failed to load">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
@@ -101,7 +101,7 @@ The vortex strength (Î“) is calculated using the concept of circulation, where Ï
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="JSAE-6.png"alt="Image failed to load">
+    src="JSAE-6.png" alt="Image failed to load">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
@@ -116,7 +116,7 @@ The results section presents the findings of the study. The authors investigate 
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="JSAE-7.png"alt="Image failed to load">
+    src="JSAE-7.png" alt="Image failed to load">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
@@ -135,7 +135,7 @@ The findings suggest that the mutual impact of fuel temperature and injection pr
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="JSAE-8.png"alt="Image failed to load">
+    src="JSAE-8.png" alt="Image failed to load">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
