@@ -17,7 +17,7 @@ My primary research focus involves the following:
 * Physics-informed Neural Network
 * Data-driven fluid flow modeling 
 
-
+***I'm sharing this site to turn hindsight into foresight – record, reflect, and level up...***
 
 > You can find my  [CV](https://ziming-zh.github.io/) and [previous work](https://ziming-zh.github.io/) at this website. 
 {: .prompt-tip }
