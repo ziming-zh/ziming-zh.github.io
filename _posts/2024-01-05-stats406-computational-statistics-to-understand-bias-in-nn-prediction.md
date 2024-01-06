@@ -15,7 +15,7 @@ img_path: /assets/img/post/
 
 ## Introduction 
 
-The research utilizes computational statistical methods to investigate the potential influence of object size and shape in image classification, specifically in the context of the MNIST dataset. The motive behind this work is to address the challenge of biases in machine learning models, particularly the potential model bias from different object shapes and sizes.
+This is a project repo of Umich 2022-2023 Fall course STATS406, using computational statistical methods to analyze potential bias in hand-written digit prediction process. Specifically, the research utilizes computational statistical methods to investigate the potential influence of object size and shape in image classification, specifically in the context of the MNIST dataset. The motive behind this work is to address the challenge of biases in machine learning models, particularly the potential model bias from different object shapes and sizes.
 
 ## Data Collection
 
