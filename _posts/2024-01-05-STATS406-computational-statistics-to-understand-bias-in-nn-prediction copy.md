@@ -7,8 +7,7 @@ date: 2024-01-05 15:21 -0600
 img_path: /assets/img/post/
 ---
 
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML" async></script>
 
 > The [final project paper](https://github.com/ziming-zh/STATS406-Final-Project/blob/main/Final_Report/Report.pdf) is now available online at my [GitHub Repo](https://github.com/ziming-zh/STATS406-Final-Project)
 {: .prompt-info }
